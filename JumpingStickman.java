@@ -3,8 +3,8 @@ import greenfoot.*;
 /**
  * Write a description of class JumpingStickman here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Gewelle) 
+ * @version (V1)
  */
 public class JumpingStickman extends Stickman
 {
