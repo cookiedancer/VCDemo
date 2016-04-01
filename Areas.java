@@ -3,8 +3,8 @@ import greenfoot.*;
 /**
  * Write a description of class Areas here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * Christopher Wanzong 
+ * 2.0
  */
 public class Areas extends Actor
 {
